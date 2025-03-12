@@ -1,7 +1,7 @@
 # README
 
 Steps to duplicate this project and test morph issues with Action Text / Turbo Drive Morph:
-* `rails new action-test-clears-morph`
+* `rails new action-text-clears-morph`
 * `rails action_text:install`
 * `bundle`
 * `rails g scaffold Post title:string body:rich_text`
